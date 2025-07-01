@@ -1,8 +1,9 @@
 function criaCartao(categoria, pergunta, resposta){
+     console.log(categoria, pergunta, resposta);
     "CIÊNCIAS"
     "como é feito a fotossintese?"
     "pelo sol"
-    console.log(categoria, pergunta, resposta);
+   
 }
 
 criaCartao(
